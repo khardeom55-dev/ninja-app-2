@@ -1,0 +1,6 @@
+{
+  "name": "Ninja Auto Editor",
+  "description": "Native esports gaming video editor for Auto Shorts and Auto Long videos with heuristic highlight detection, meme & sound effects, and custom channel branding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
